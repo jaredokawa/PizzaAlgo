@@ -1,6 +1,5 @@
-1. Make dough
-2. Roll out dough into circle
-3. Spread sauce and cheese evenly
-4. Put on toppings
-5. Bake
-6. Cut
+Step 1. Locate pizza place close by
+Step 2. Select Blaze if exists
+Step 3. Choose build your own with original crust
+Step 4. Choose all toppings
+Step 5. Check out
